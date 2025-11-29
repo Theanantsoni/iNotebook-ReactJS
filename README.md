@@ -1,12 +1,20 @@
-iNotebook
+iNotebook - React JS Application
 <br>
 Author: Anant Soni
 
 
 - iNotebook app using React JS.
 - React based application with user authentication and CRUD operations for managing personal notes.
-- <img width="1919" height="770" alt="image" src="https://github.com/user-attachments/assets/9289b9fa-8351-4e3a-99cd-4822ee790a08" />
+- Database name: inotebook
+- Colelction name: users, notes
 
+Screenshots:
+
+<img width="1919" height="778" alt="image" src="https://github.com/user-attachments/assets/42f2b37b-5546-48c3-9565-a29a598fb21e" />
+
+<img width="1919" height="628" alt="image" src="https://github.com/user-attachments/assets/73f655fb-f1f3-4058-9136-9793c6bac536" />
+
+<img width="1919" height="934" alt="image" src="https://github.com/user-attachments/assets/1ecf6969-3c2d-41b9-84aa-d8d59aa204a2" />
 
 
 Check full video on youtube: 
