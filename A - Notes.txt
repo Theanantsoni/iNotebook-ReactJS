@@ -1,0 +1,7 @@
+For connection : 
+
+cd backend
+nodemon ./index.js
+
+For fronted: 
+npm start
