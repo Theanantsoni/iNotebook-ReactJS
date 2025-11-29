@@ -5,3 +5,18 @@ nodemon ./index.js
 
 For fronted: 
 npm start
+
+-------------------
+
+Registration
+Login
+Add notes
+Update notes
+Delete notes
+
+--------------
+
+MongoDB compass
+
+Database name: inotebook
+Connection name: users, notes
