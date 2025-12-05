@@ -26,12 +26,6 @@ Update Page:
 
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/ac21d0d0-d1ee-42ea-b423-d0d0ec1447da" />
 
-
-
-Check full video on youtube: 
-
-
-
 Linkdin profile: 
 
 https://www.linkedin.com/in/anant-soni-b737662a2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
